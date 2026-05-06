@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\mrsol\\Downloads\\hotel-frontend\\hotel-frontend\\yoya-hotel\\node_modules",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
